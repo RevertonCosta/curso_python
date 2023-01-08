@@ -1,0 +1,5 @@
+print(1 + 10)
+print(1.3 + 3)
+print (False)
+print ("Python")
+print (True)
